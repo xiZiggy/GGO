@@ -1,3 +1,0 @@
-WarningActive
-
-This is a test warning.
