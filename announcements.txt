@@ -1,3 +1,5 @@
 AnnouncementsActive
 
-This is where small but important announcements go. You can change this text without updating :P
+Welcome to Gun Gale Online's Early-Alpha stage!
+Beward of bugs, still in early stages of development.
+Join the Discord: https://discord.gg/K9ZDheN
